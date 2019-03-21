@@ -5,3 +5,6 @@ convert erine model from fluid to ckpt.(paddlepaddle to tensorflow)
 
 反正我自己转的模型，跑出来比bert略低。。
 erine不见得有用。。
+
+提出来的
+链接: https://pan.baidu.com/s/16MJxQ964w-9efXXxnjbtaA 提取码: r3mw 
